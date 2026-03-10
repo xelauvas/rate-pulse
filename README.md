@@ -34,6 +34,13 @@
 
 ## Screenshots
 
+### Landing Page
+<p align="center">
+  <img src="docs/screenshots/landing-hero.png" alt="RatePulse Landing Page" width="900" />
+</p>
+
+> AI-powered hotel revenue management — know exactly when to raise your rates. Real-time competitor scraping, PMS integration, and demand-aware pricing in a single platform.
+
 ### Rate Intelligence Dashboard
 <p align="center">
   <img src="docs/screenshots/dashboard.png" alt="RatePulse Dashboard" width="900" />
@@ -41,12 +48,19 @@
 
 > Interactive 365-day rate canvas with color-coded AI recommendations. Bubble size reflects occupancy, colors indicate pricing action (green = raise, red = lower, purple = optimal). Real-time competitor data drives every suggestion.
 
-### AI Revenue Assistant — Pulse
+### Rates & Pricing Engine
 <p align="center">
-  <img src="docs/screenshots/ai-chat.png" alt="AI Revenue Assistant" width="900" />
+  <img src="docs/screenshots/rates.png" alt="Rates View" width="900" />
 </p>
 
-> Multi-turn AI chatbot with streaming responses, tool calling (rate changes, event creation, web search), persistent memory, and full hotel context awareness.
+> Per-date rate management with AI-generated optimal pricing. View modes for day, week, month, and year with confidence scores and demand multipliers.
+
+### Intelligence & Analytics
+<p align="center">
+  <img src="docs/screenshots/intelligence.png" alt="Intelligence Dashboard" width="900" />
+</p>
+
+> Revenue analytics with RevPAR, ADR, occupancy trends, health scores, and YoY comparisons. Smart alerts flag anomalies in booking velocity and competitor pricing.
 
 ### Competitor Tracking & Analysis
 <p align="center">
@@ -55,12 +69,26 @@
 
 > Auto-discover competitors within 5km via Google Places. Real-time rate scraping from Google Hotels, Booking.com, and Expedia. Track pricing patterns, reviews, and market positioning.
 
-### Analytics & Revenue Performance
+### Pickup Reports
 <p align="center">
-  <img src="docs/screenshots/analytics.png" alt="Analytics Dashboard" width="900" />
+  <img src="docs/screenshots/pickup.png" alt="Pickup Reports" width="900" />
 </p>
 
-> Revenue analytics with RevPAR, ADR, occupancy trends, health scores, and YoY comparisons. Pickup reports track booking velocity with 14-day lookahead.
+> Booking velocity snapshots with 14-day lookahead, pickup trends, and pace comparisons to identify demand surges early.
+
+### Trends & Forecasting
+<p align="center">
+  <img src="docs/screenshots/trends.png" alt="Trends & Forecasting" width="900" />
+</p>
+
+> Historical pricing and occupancy trends with seasonality detection. Year-over-year pattern analysis for strategic rate planning.
+
+### Reviews & Reputation
+<p align="center">
+  <img src="docs/screenshots/reviews.png" alt="Reviews Management" width="900" />
+</p>
+
+> Google review sentiment analysis, topic extraction, rating trends, response management, and AI-drafted replies — all from one dashboard.
 
 ### Events & Demand Factors
 <p align="center">
@@ -69,33 +97,26 @@
 
 > Aggregate demand signals from 5 external sources (Ticketmaster, PredictHQ, Skiddle, Football Data, UK Bank Holidays) plus custom events. Demand multipliers automatically boost rate recommendations.
 
-### Chrome Extension — PMS Integration
+### Operations & Housekeeping
 <p align="center">
-  <img src="docs/screenshots/extension.png" alt="Chrome Extension" width="500" />
-</p>
-
-> Manifest V3 Chrome extension that auto-detects Hop PMS, scrapes rates/occupancy/bookings, and applies AI-recommended rates directly into the PMS — bidirectional sync with zero manual data entry.
-
-### Google Business Profile Integration
-<p align="center">
-  <img src="docs/screenshots/google-business.png" alt="Google Business Integration" width="900" />
-</p>
-
-> OAuth-connected Google Business Profile with review sentiment analysis, topic extraction, rating trends, business insights (views, calls, clicks), and direct review reply from the dashboard.
-
-### Authentication & Hotel Setup
-<p align="center">
-  <img src="docs/screenshots/login.png" alt="Login & Setup" width="500" />
-</p>
-
-> Multi-provider auth (Email, Google, Facebook) with a 3-step hotel setup wizard including automatic competitor discovery.
-
-### Housekeeping Operations
-<p align="center">
-  <img src="docs/screenshots/housekeeping.png" alt="Housekeeping Module" width="900" />
+  <img src="docs/screenshots/operations.png" alt="Operations Module" width="900" />
 </p>
 
 > 12-module operations suite: daily room status, staff management, reservation tracking, breakfast forecasting, linen management, finance/P&L, scheduling, and variance reporting.
+
+### Marketing
+<p align="center">
+  <img src="docs/screenshots/marketing.png" alt="Marketing Dashboard" width="900" />
+</p>
+
+> Google Business Profile integration with business insights (views, calls, clicks), review analytics, and direct review reply from the dashboard.
+
+### Authentication & Login
+<p align="center">
+  <img src="docs/screenshots/login.png" alt="Login" width="900" />
+</p>
+
+> Multi-provider auth (Email, Google, Facebook) with a 3-step hotel setup wizard including automatic competitor discovery.
 
 ### Mobile Responsive
 <p align="center">
